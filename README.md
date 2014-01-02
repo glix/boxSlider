@@ -372,3 +372,7 @@ as the `fade` effect.
 
 }(window, jQuery || Zepto));
 ```
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/glix/boxslider/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
